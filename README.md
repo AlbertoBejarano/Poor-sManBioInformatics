@@ -1,1 +1,1 @@
-# Poor-sManBioInformatis
+# PoorsManBioInformatics
